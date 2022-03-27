@@ -17,6 +17,6 @@ To run this project you can use Remix IDE to deploy the contract
 
 2° Use the pickWinner function to release the prize
 
-###CREDITS###
+### CREDITS ###
 
 Made by: Arthur Gonçalves Breguez.
